@@ -24,9 +24,10 @@ Hi, I'm Razvan Rauta, a passionate self-taught frontEnd web developer from Roman
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazvanRauta&show_icons=true&include_all_commits=true&theme=radical" alt="Razvan's github stats" />
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazvanRauta&layout=compact&theme=radical" />
-
+<a href="https://github.com/RazvanRauta/nextjs-strapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazvanRauta&repo=nextjs-strapi&theme=radical" />
-  
+</a>
+<a href="https://github.com/RazvanRauta/symfony-react-app" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazvanRauta&repo=symfony-react-app&theme=radical" />
-
+</a>
   
