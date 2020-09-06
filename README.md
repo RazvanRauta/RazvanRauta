@@ -5,8 +5,8 @@
 
 Hi, I'm Razvan Rauta, a passionate self-taught frontEnd web developer from Romania.
 
-- 🔭 I’m currently working on my project [NextJS Strapi](https://github.com/RazvanRauta/nextjs-strapi)
-- 🌱 I’m currently learning GraphQL & Typescript
+- 🔭 I’m currently working on my project [ShopApp](https://github.com/RazvanRauta/shop-app)
+- 🌱 I’m currently learning Typescript & React Native
 - 💬 Ask me about anything [here](https://github.com/RazvanRauta/RazvanRauta/issues)
 
 **Languages and Tools:**  
@@ -31,5 +31,8 @@ Hi, I'm Razvan Rauta, a passionate self-taught frontEnd web developer from Roman
 </a>
 <a href="https://github.com/RazvanRauta/symfony-react-app" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazvanRauta&repo=symfony-react-app&theme=radical" />
+</a>
+<a href="https://github.com/RazvanRauta/shop-app" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazvanRauta&repo=shop-app&theme=radical" />
 </a>
   
