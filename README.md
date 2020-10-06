@@ -5,7 +5,7 @@
 
 Hi, I'm Razvan Rauta, a passionate self-taught frontEnd web developer from Romania.
 
-- 🔭 I’m currently working on my project [ShopApp](https://github.com/RazvanRauta/shop-app)
+- 🔭 I’m currently working on my project [ShopApp](https://github.com/RazvanRauta/flutter_shop_app)
 - 🌱 I’m currently learning Dart & Flutter
 - 💬 Ask me about anything [here](https://github.com/RazvanRauta/RazvanRauta/issues)
 
