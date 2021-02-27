@@ -19,16 +19,12 @@ Hi, I'm Razvan Rauta, a passionate self-taught frontEnd web developer from Roman
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-<br />
-<br />
-
 **Codewars rank:** 
 
 <a href="https://www.codewars.com/users/RazvanRauta">
  <img height="50" src="https://www.codewars.com/users/RazvanRauta/badges/large">
 </a>
 
-<br />
 <br />
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
