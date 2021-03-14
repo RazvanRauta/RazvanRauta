@@ -46,6 +46,6 @@ Hi, I'm Razvan Rauta, a passionate self-taught fullStack developer from Romania.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazvanRauta&repo=shop-app&theme=radical" />
 </a>
 <a href="https://github.com/RazvanRauta/nodejs-microservices" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazvanRauta&nodejs-microservices&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazvanRauta&repo=nodejs-microservices&theme=radical" />
 </a>
   
