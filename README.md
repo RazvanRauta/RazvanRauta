@@ -3,7 +3,7 @@
 <br />
 <br />
 
-Hi, I'm Razvan Rauta, a passionate self-taught fullStack developer from Romania.
+Hi, I'm Razvan Rauta, a passionate self-taught fullStack developer from Romania 🇷🇴.
 
 - 🔭 I’m currently working on my project [MicroServices with NodeJS](https://github.com/RazvanRauta/nodejs-microservices)
 - 🌱 I’m currently learning NodeJs & MicroServices
