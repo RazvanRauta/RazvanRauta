@@ -3,11 +3,12 @@
 <br />
 <br />
 
-Hi, I'm Razvan Rauta, a passionate self-taught frontEnd web developer from Romania.
+Hi, I'm Razvan Rauta, a passionate self-taught fullStack developer from Romania.
 
-- 🔭 I’m currently working on my project [ShopApp](https://github.com/RazvanRauta/flutter_shop_app)
-- 🌱 I’m currently learning Dart & Flutter
+- 🔭 I’m currently working on my project [MicroServices with NodeJS](https://github.com/RazvanRauta/nodejs-microservices)
+- 🌱 I’m currently learning NodeJs & MicroServices
 - 💬 Ask me about anything [here](https://github.com/RazvanRauta/RazvanRauta/issues)
+- 📃 Check out my blog [RRazvan | Developer](https://rrazvan.dev/blog/)
 
 **Languages and Tools:**  
 
@@ -22,7 +23,7 @@ Hi, I'm Razvan Rauta, a passionate self-taught frontEnd web developer from Roman
 **Codewars rank:** 
 
 <a href="https://www.codewars.com/users/RazvanRauta">
- <img height="50" src="https://www.codewars.com/users/RazvanRauta/badges/large">
+ <img height="25" src="https://www.codewars.com/users/RazvanRauta/badges/large">
 </a>
 
 <br />
@@ -43,5 +44,8 @@ Hi, I'm Razvan Rauta, a passionate self-taught frontEnd web developer from Roman
 </a>
 <a href="https://github.com/RazvanRauta/shop-app" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazvanRauta&repo=shop-app&theme=radical" />
+</a>
+<a href="https://github.com/RazvanRauta/nodejs-microservices" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RazvanRauta&nodejs-microservices&theme=radical" />
 </a>
   
