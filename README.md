@@ -6,7 +6,7 @@
 Hi, I'm Razvan Rauta, a passionate self-taught fullStack developer from Romania 🇷🇴.
 
 - 🔭 I’m currently working on my project [MicroServices with NodeJS](https://github.com/RazvanRauta/nodejs-microservices)
-- 🌱 I’m currently learning NodeJs & MicroServices
+- 🌱 I’m currently learning GO
 - 💬 Ask me about anything [here](https://github.com/RazvanRauta/RazvanRauta/issues)
 - 📃 Check out my blog [RRazvan | Developer](https://rrazvan.dev/blog/)
 
@@ -22,8 +22,9 @@ Hi, I'm Razvan Rauta, a passionate self-taught fullStack developer from Romania 
 <code><img height="30" title="Dart" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="30" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" title="Kubernetes" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="30" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
+<code><img height="30" title="Symfony" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
 <code><img height="30" title="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code><br />
+<code><img height="30" title="GO" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="30" title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" title="SASS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
