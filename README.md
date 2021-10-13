@@ -1,9 +1,14 @@
 ### Hi there, I'm [Razvan!](https://rrazvan.dev) 👋
 
-<br />
+
+<a href="https://app.daily.dev/rrazvan">
+ <img src="https://api.daily.dev/devcards/fc94d353c0dd4f199d16175958b033ef.png?r=25o" align="right" width="300" alt="Razvan's Dev Card"/>
+</a>
+
 <br />
 
 Hi, I'm Razvan Rauta, a passionate self-taught fullStack developer from Romania 🇷🇴.
+
 
 - 🔭 I’m currently working on my project [MicroServices with NodeJS](https://github.com/RazvanRauta/nodejs-microservices)
 - 🌱 I’m currently learning GO
@@ -69,10 +74,4 @@ Hi, I'm Razvan Rauta, a passionate self-taught fullStack developer from Romania 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <br />
-
-[**#DevCard**](https://app.daily.dev/)
-
-<a href="https://app.daily.dev/rrazvan">
- <img src="https://api.daily.dev/devcards/fc94d353c0dd4f199d16175958b033ef.png?r=25o" width="250" alt="Razvan's Dev Card"/>
-</a>
   
