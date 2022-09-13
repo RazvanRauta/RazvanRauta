@@ -2,7 +2,11 @@
 
 
 
-Hi, I'm Razvan Rauta, a passionate self-taught fullStack developer from Romania 🇷🇴.
+Hi, I'm Razvan, a passionate self-taught fullStack developer from Romania 🇷🇴.
+
+<a href="https://app.daily.dev/rrazvan">
+ <img src="https://api.daily.dev/devcards/fc94d353c0dd4f199d16175958b033ef.png?r=25o" align="right" width="300" alt="Razvan's Dev Card"/>
+</a>
 
 
 - 🔭 I’m currently working on my project [Reactivities](https://github.com/RazvanRauta/reactivites)
@@ -12,26 +16,13 @@ Hi, I'm Razvan Rauta, a passionate self-taught fullStack developer from Romania 
 
 **Languages and Tools:**  
 
-<a href="https://app.daily.dev/rrazvan">
- <img src="https://api.daily.dev/devcards/fc94d353c0dd4f199d16175958b033ef.png?r=25o" align="right" width="300" alt="Razvan's Dev Card"/>
-</a>
-<br />
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,graphql,nodejs,nextjs,gatsby,remix,tailwind,css,html,vite,flutter,dart,docker,go,cs,dotnet,php,symfony,linux,vscode,git,aws&perline=5)](https://skillicons.dev)
-
-<br />
-
-**Codewars rank:** 
-
-<a href="https://www.codewars.com/users/RazvanRauta">
- <img height="25" src="https://www.codewars.com/users/RazvanRauta/badges/large">
+<a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=js,ts,react,redux,graphql,nodejs,nextjs,gatsby,remix,astro,tailwind,css,html,vite,flutter,dart,docker,go,cs,dotnet,php,symfony,laravel,linux,vscode,git,github,gitlab,jenkins,aws&perline=5" align="center" width="300" alt="My skills" />
 </a>
 
 <br />
 <br />
-
-
+<br />
 <a href="https://github.com/RazvanRauta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RazvanRauta&show_icons=true&include_all_commits=true&theme=radical" alt="Razvan's github stats" />
 </a>
