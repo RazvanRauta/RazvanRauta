@@ -4,20 +4,19 @@
 
 Hi, I'm Razvan, a passionate self-taught fullStack developer from Romania 🇷🇴.
 
-<a href="https://app.daily.dev/rrazvan">
- <img src="https://api.daily.dev/devcards/v2/BS378DSAr.png?type=default&r=0io" align="right" width="300" alt="Razvan's Dev Card"/>
-</a>
-
-
-- 🔭 I’m currently working on my project [Reactivities](https://github.com/RazvanRauta/reactivites)
-- 🌱 I’m currently learning .NET
+- 🔭 I’m currently working on multiple pet projects.
+- 🌱 I’m currently learning LLM.
 - 💬 Ask me about anything [here](https://github.com/RazvanRauta/RazvanRauta/issues)
 - 📃 Check out my blog [RRazvan | Developer](https://rrazvan.dev/blog/)
+
+**LeetCode:**
+
+[![LeetCode user rrazvan](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frrazvan&logo=leetcode&logoColor=yellow)](https://leetcode.com/rrazvan/)
 
 **Languages and Tools:**  
 
 <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=js,ts,react,redux,graphql,nodejs,nextjs,gatsby,remix,astro,tailwind,css,html,vite,flutter,dart,docker,go,cs,dotnet,php,symfony,laravel,linux,vscode,git,github,gitlab,jenkins,aws&perline=5" align="center" width="300" alt="My skills" />
+ <img src="https://skillicons.dev/icons?i=js,ts,react,redux,graphql,nodejs,nextjs,gatsby,remix,astro,tailwind,css,html,vite,flutter,dart,docker,go,cs,dotnet,php,symfony,laravel,linux,vscode,git,github,gitlab,jenkins,aws&perline=5" align="center" width="500" alt="My skills" />
 </a>
 
 <br />
@@ -48,5 +47,4 @@ Hi, I'm Razvan, a passionate self-taught fullStack developer from Romania 🇷�
 
 *NOTE: Top languages do not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-<br />
-  
+<br />  
