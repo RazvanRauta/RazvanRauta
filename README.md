@@ -16,7 +16,7 @@ Hi, I'm Razvan, a passionate self-taught fullStack developer from Romania ğŸ‡·ğŸ
 **Languages and Tools:**  
 
 <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=js,ts,react,redux,graphql,nodejs,nextjs,gatsby,remix,astro,tailwind,css,html,vite,flutter,dart,docker,go,cs,dotnet,php,symfony,laravel,linux,vscode,git,github,gitlab,jenkins,aws&perline=5" align="center" width="500" alt="My skills" />
+ <img src="https://skillicons.dev/icons?i=js,ts,react,redux,graphql,nodejs,nextjs,nestjs,remix,astro,tailwind,css,html,vite,flutter,dart,docker,go,cs,dotnet,php,symfony,laravel,linux,vscode,git,github,gitlab,jenkins,aws&perline=5" align="center" width="500" alt="My skills" />
 </a>
 
 <br />
